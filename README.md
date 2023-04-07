@@ -98,7 +98,7 @@
 
   
 
-<a href="https://www.microsoft.com/en-us/windows?r=1"  target="_blank"  rel="noreferrer">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png"  alt="windows"  width="40"  height="40"/>  </a>  <a href="https://ubuntu.com/"  target="_blank"  rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"  alt="ubuntu"  width="40"  height="40"/>  </a>  <a href="https://www.linux.org/"  target="_blank"  rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  alt="linux"  width="40"  height="40"/>  </a>  <a href="https://www.raspberrypi.org/"  target="_blank"  rel="noreferrer">  <img src="https://assets.stickpng.com/images/584830fecef1014c0b5e4aa2.png"  width="40"  height="40"/>  </a>
+<a href="https://www.microsoft.com/en-us/windows?r=1"  target="_blank"  rel="noreferrer">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png"  alt="windows"  width="40"  height="40"/>  </a>  <a href="https://ubuntu.com/"  target="_blank"  rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"  alt="ubuntu"  width="40"  height="40"/>  </a>  <a href="https://www.linux.org/"  target="_blank"  rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  alt="linux"  width="40"  height="40"/>  </a>
 
   
 
