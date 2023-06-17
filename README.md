@@ -5,21 +5,12 @@
 
 <h3 align="center">I'm a passionate developer mainly focused on frontend. With an interest in getting into mobile app development</h3>
 
-  
 
-<p align="left">  <img src="https://komarev.com/ghpvc/?username=adjo00&label=Profile%20views&color=0e75b6&style=flat"  alt="adjo00" />  </p>
-
-  
-
-- 🌱 I’m currently learning: **Java, JavaScript/TypeScript, React (pretty much the entire MERN stack) and Ruby on Rails**
+- 🌱 I’m currently learning: **Java, C#, JavaScript/TypeScript, React, and Ruby on Rails**
 
   
 
-- 📫 How to reach me: **adrianjoachinz@gmail.com or my Linkedin**
-
-  
-
-- ⚡ Fun fact: **pineapple on pizza is ok**
+- 📫 How to reach me: **[adrianjoachinz@gmail.com](mailto:youremail@example.com) or my [Linkedin](https://linkedin.com/in/adrianjoachin)**
 
   
 
@@ -45,7 +36,7 @@
 
 <h5 align="left">Languages</h5>
 
-<a href="https://www.java.com"  target="_blank"  rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  alt="java"  width="40"  height="40"/>  </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank"  rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="javascript"  width="40"  height="40"/>  </a>  <a href="https://www.typescriptlang.org/"  target="_blank"  rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  alt="typescript"  width="40"  height="40"/>  </a>
+<a href="https://www.java.com"  target="_blank"  rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  alt="java"  width="40"  height="40"/>  </a>      <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="csharp" width="40" height="40" />       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank"  rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="javascript"  width="40"  height="40"/>  </a>  <a href="https://www.typescriptlang.org/"  target="_blank"  rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  alt="typescript"  width="40"  height="40"/>  </a>
 
   
   
@@ -88,7 +79,7 @@
 
 <h5 align="left">Editors</h5>
 
-<a href="https://code.visualstudio.com/"  target="_blank"  rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"  alt="vscode"  width="40"  height="40"/>  </a>  <a href="https://www.jetbrains.com/idea/"  target="_blank"  rel="noreferrer">  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png"  alt="intellij"  width="40"  height="40"/>  </a>  <a href="https://www.jetbrains.com/ruby/"  target="_blank"  rel="noreferrer">  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/RubyMine_icon.png"  alt="rubymine"  width="40"  height="40"/>  </a>
+<a href="https://code.visualstudio.com/"  target="_blank"  rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"  alt="vscode"  width="40"  height="40"/>  </a>      <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40">     <a href="https://www.jetbrains.com/idea/"  target="_blank"  rel="noreferrer">  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png"  alt="intellij"  width="40"  height="40"/>  </a>  <a href="https://www.jetbrains.com/ruby/"  target="_blank"  rel="noreferrer">  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/RubyMine_icon.png"  alt="rubymine"  width="40"  height="40"/>  </a>
 
   
   
@@ -98,7 +89,7 @@
 
   
 
-<a href="https://www.microsoft.com/en-us/windows?r=1"  target="_blank"  rel="noreferrer">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png"  alt="windows"  width="40"  height="40"/>  </a>  <a href="https://ubuntu.com/"  target="_blank"  rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"  alt="ubuntu"  width="40"  height="40"/>  </a>  <a href="https://www.linux.org/"  target="_blank"  rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  alt="linux"  width="40"  height="40"/>  </a>
+<a href="https://www.microsoft.com/en-us/windows?r=1"  target="_blank"  rel="noreferrer">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png"  alt="windows"  width="40"  height="40"/>  </a>  <a href="https://ubuntu.com/"  target="_blank"  rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"  alt="ubuntu"  width="40"  height="40"/>  </a>
 
   
 
